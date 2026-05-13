@@ -4,7 +4,7 @@ An instant AI tool spend auditor for small teams. Enter your current AI subscrip
 
 Built for engineering managers and CTOs at 5–25 person startups who pay the AI bills themselves and have been meaning to audit the stack "at some point."
 
-**[→ Live demo](https://your-vercel-url.vercel.app)**
+**[→ Live demo]([https://your-vercel-url.vercel.app](https://ai-spend-audit-jcqeuy4lu-prajikta08s-projects.vercel.app/)**
 
 ---
 
